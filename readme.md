@@ -1,4 +1,8 @@
-    DROP DATABASE "Vehicle_Rental_System";
+    FlowChart
+1) https://lucid.app/lucidchart/65a915f4-2648-49d7-80a2-8ec38ffe93b5/edit?viewport_loc=-996%2C-718%2C2228%2C1083%2C0_0&invitationId=inv_1cdca9be-860a-4cce-9fe3-61c734f34ac0
+    
+    
+DROP DATABASE "Vehicle_Rental_System";
 
     -- For user Table and insertion
     CREATE TABLE IF NOT EXISTS users (
